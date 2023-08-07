@@ -16,7 +16,7 @@
     "@react-navigation/native-stack": "^6.9.9",
     "@types/styled-components-react-native": "^5.2.1",
     "dayjs": "^1.11.7",
-    "expo": "^47.0.13",
+    "expo": "^49.0.6",
     "expo-font": "~11.0.1",
     "expo-status-bar": "~1.4.2",
     "phosphor-react-native": "^1.1.2",
