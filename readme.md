@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="dailydiet" src="https://github.com/ifelipesm/dailydiet/blob/master/src/assets/logo.png?raw=true"  width="600px" style="border-radius:16px;"/>
+    <img alt="dailydiet" src="https://github.com/ifelipesm/dailydiet/blob/master/src/assets/Logo.svg?raw=true"  width="600px" style="border-radius:16px;"/>
 </h1>
 
 <h3 align="center" >
@@ -7,8 +7,10 @@
 </h3>
 
 <div align="center">
-  <img src=https://github.com/ifelipesm/dailydiet/blob/master/src/assets/diet.png alt="demo" height="425">
+  <img src=https://github.com/ifelipesm/dailydiet/blob/master/src/assets/diet.png alt="demo" height="600">
 </div>
+
+---
 
 <p align="center">
   <img alt="Languagues" src="https://img.shields.io/github/languages/count/ifelipesm/dailydiet">
