@@ -65,8 +65,8 @@ export function NewMeal() {
   function clearFields(){
     newMealNameInputRef.current?.clear();
     newMealDescriptionInputRef.current?.clear();
-    newMealDayInputRef.current?.clear();
-    newMealHourInputRef.current?.clear();
+    setMealDay(todayDay);
+    setMealHour(todayHour);
     setIsGreenSelected(false);
     setIsRedSelected(false);
     setMealDiet(false);
