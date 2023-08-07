@@ -6,7 +6,7 @@
   Daily Diet is a mobile app made for diet control where you can check your daily meals and diet.
 </h3>
 
-<div>
+<div align="center">
   <img src=https://github.com/ifelipesm/dailydiet/blob/master/src/assets/diet.png alt="demo" height="425">
 </div>
 
